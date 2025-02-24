@@ -1,4 +1,5 @@
 ---
+layout: post
 title: VPN, VPC, VPS 정리
 date: 2024-07-22
 categories:
