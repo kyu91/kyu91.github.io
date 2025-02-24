@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://www.levih.me/chirpy-blog"
+url: "https://kyu91.github.io/chirpy-blog"
 
 github:
   username: kyu91 # change to your GitHub username
@@ -90,19 +90,19 @@ pageviews:
 #
 theme_mode: # [light | dark]
 
-# The CDN endpoint for media resources.
-# Notice that once it is assigned, the CDN url
-# will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
+# 미디어 리소스를 위한 CDN 엔드포인트.
+# 설정되면 CDN url이 '/'로 시작하는 모든 미디어 리소스
+# (사이트 아바타, 게시물 이미지, 오디오 및 비디오 파일)의 경로에 추가됩니다
 #
-# e.g. 'https://cdn.com'
-cdn:
+# 예시: 'https://cdn.com'
+cdn: '/assets/img/'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/favicons/avatar.png 
+avatar: favicons/avatar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: /assets/img/favicons/web-app-manifest-512x512.png
+social_preview_image: favicons/web-app-manifest-512x512.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/"
+baseurl: "/chirpy-blog/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
