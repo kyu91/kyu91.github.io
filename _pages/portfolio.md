@@ -12,4 +12,12 @@ hidden: true    # (옵션) Chirpy 네비게이션에서 제외
 
 3️⃣ 아래에서 iframe으로 보기 👇👇👇
 
-<iframe id="iframe_pofol" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" src="https://embed.figma.com/deck/AzEb6IrRFDPymYqJhwIpOO/Portfolio_v2?node-id=1-603&viewport=628%2C258%2C0.28&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&embed-host=share" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; padding-top: 56.25%; height: 0;">
+  <iframe 
+    src="https://embed.figma.com/deck/AzEb6IrRFDPymYqJhwIpOO/Portfolio_v2?node-id=1-603&viewport=628%2C258%2C0.28&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&embed-host=share" 
+    allowfullscreen 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 1px solid rgba(0, 0, 0, 0.1);">
+  </iframe>
+</div>
+
+    
