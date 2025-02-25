@@ -1,7 +1,9 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 5
+layout: page
+title: Resume
+permalink: /resume/   
+sitemap: false  # (옵션) 검색 엔진에서 제외
+hidden: true    # (옵션) Chirpy 네비게이션에서 제외
 ---
 
 # 🙇‍♂️ Introduction
