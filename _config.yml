@@ -77,6 +77,9 @@ analytics:
 pageviews:
   provider: # now only supports 'goatcounter'
 
+# 페이지 포함
+include:
+  - _pages
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,
