@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-permalink: /resume/   
+permalink: /chirpy-blog/resume/   
 sitemap: false  # (옵션) 검색 엔진에서 제외
 hidden: true    # (옵션) Chirpy 네비게이션에서 제외
 ---
