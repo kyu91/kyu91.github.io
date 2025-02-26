@@ -3,17 +3,55 @@ layout: page
 title: "Resume"
 permalink: /resume/   
 sitemap: false  # (옵션) 검색 엔진에서 제외
-hidden: true    # (옵션) Chirpy 네비게이션에서 제외
 ---
 
 # 🙇‍♂️ Introduction
+
+<div class="toggle-box" style="text-align: center;">
+  <button class="toggle-btn" onclick="toggleImage()">📷 사진 보기</button>
+  <div id="profile-image" style="display: none; text-align: center;">
+    <img src="./resume_img/resume_img.png" alt="프로필 사진">
+  </div>
+</div>
+
+<script>
+function toggleImage() {
+  var image = document.getElementById("profile-image");
+  if (image.style.display === "none") {
+    image.style.display = "block";
+  } else {
+    image.style.display = "none";
+  }
+}
+</script>
+
+<style>
+.toggle-btn {
+  background: none;
+  border: 1px solid #ddd;
+  padding: 4px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  font-weight: 800;
+}
+.toggle-btn:hover {
+  background: #f5f5f5;
+  color: #000;
+}
+</style>
+
 - 이름 : 홍석규(남)
 - 년생 : 1991년
 - 특기 : 시스템 분석, 서비스 분석, 기획서 작성, 문제 분석 및 해결점 모색
-- 취미 : 농구, 독서, 블로그 관리, 새로나온 SaaS 써보기, 강아지와 놀기 
+- 취미 : 농구, 독서, 블로그 관리, 새로나온 SaaS 써보기, 강아지와 놀기
 - Email : [hongsk5689@gamil.com](mailto:hongsk5689@gamil.com)
 - Portfolio : [https://www.levih.me/portfolio](https://www.levih.me/portfolio)
-- Blog : [https://www.levih.me](https://www.levih.me/)
+- Blog : [https://www.levih.me](https://www.levih.me)
+
+
 
 # 💼 Experience.
 ### 1️⃣ Daewoongpet
