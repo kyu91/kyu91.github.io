@@ -43,7 +43,7 @@ description: 도메인을 바꾸면서 포워딩을 해보자(쉬움)
 
 ### 규칙 → Page Rules 세팅
 아래와 같이 세팅 했다.
-![image](도메인%20리다이렉팅Redirecting하는%20법-쉬운버전_attachments/F7A7D632-51F8-4D3D-9356-E308467422E4.png)
+![image](도메인%20리다이렉팅Redirecting하는%20법-쉬운버전_attachments/189DCFC5-4AE0-4894-8C91-B6865890B267.png)
 
 ## 확인
 1. 도메인에 직접 접속 해보기,
