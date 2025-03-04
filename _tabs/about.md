@@ -13,10 +13,10 @@ order: 4
 
 ## 블로그 카테고리
 
-- [Books](../categories/Books)
-- [Development](../categories/Development)
-- [Product](../categories/Product)
-- [Productivity](../categories/Productivity)
+- [Books](../categories/books)
+- [Development](../categories/development)
+- [Product](../categories/product)
+- [Productivity](../categories/productivity)
 - [Tools & SaaS](../categories/tools-saas)
 
 재미있게 둘러보고 가세요!
