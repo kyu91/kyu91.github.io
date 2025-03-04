@@ -95,7 +95,7 @@ timer_sleep (int64_t ticks) {
 - CPU가 매우 비효율 적으로 일어날 시간을 확인 하고 있다.
 - 이 방식을 busy waits 방식이라고 한다.
 
-![image](SWjungle_img/%5BWEEK08%5DPintOS_Project1_Threads%201a513ac1a7b080e39186ce9a98a7f4f1_attachments/Untitled.png)
+![image](./SWjungle_img/WEEK08_attachments/Untitled.png)
 
 > 💡 따라서 우린 다른 방식으로 확인 비용을 줄여 일어나야 할 시간에 스레드를 깨우는 알람시계를 만들면 된다.
 
@@ -110,7 +110,7 @@ timer_sleep (int64_t ticks) {
     - 잠든 스레드는 어디에 저장 하는가?
 - 위와 같은 물음들을 하나씩 해결 해야 한다.
 
-![image](SWjungle_img/%5BWEEK08%5DPintOS_Project1_Threads%201a513ac1a7b080e39186ce9a98a7f4f1_attachments/Untitled%201.png)
+![image](./SWjungle_img/WEEK08_attachments/Untitled%201.png)
 
 ### 3. sleep_list를 만들어 잠자는 thread를 저장하자
 
@@ -338,7 +338,7 @@ thread_create (const char *name, int priority,
 
 - 결과
 
-![image](SWjungle_img/%5BWEEK08%5DPintOS_Project1_Threads%201a513ac1a7b080e39186ce9a98a7f4f1_attachments/Untitled%202.png)
+![image](./SWjungle_img/WEEK08_attachments/Untitled%202.png)
 
 # 4. 우선순위 스케쥴링(Priority Scheduling)_2
 
@@ -501,7 +501,7 @@ cond_signal (struct condition *cond, struct lock *lock UNUSED) {
 
 - 결과
 
-![image](SWjungle_img/%5BWEEK08%5DPintOS_Project1_Threads%201a513ac1a7b080e39186ce9a98a7f4f1_attachments/Untitled%203.png)
+![image](./SWjungle_img/WEEK08_attachments/Untitled%203.png)
 
 # 5. 우선순위 스케쥴링(Priority Inversion)_donation
 
@@ -519,7 +519,7 @@ cond_signal (struct condition *cond, struct lock *lock UNUSED) {
 
 - 하나의 스레드가 갖고 있는 lock에 대해서 여러 스레드가 요청하여 Multiple donation이 일어난 상황이다.
 
-![image](SWjungle_img/%5BWEEK08%5DPintOS_Project1_Threads%201a513ac1a7b080e39186ce9a98a7f4f1_attachments/Untitled%204.png)
+![image](./SWjungle_img/WEEK08_attachments/Untitled%204.png)
 
 ### 4. Nested donation
 
@@ -528,7 +528,7 @@ cond_signal (struct condition *cond, struct lock *lock UNUSED) {
 
 [##*Image|kage@bk4x1K/btrRrmLlK4E/6pMJdWAghosq4nIGcAoyOK/img.png|CDM|1.3|{"originWidth":706,"originHeight":170,"style":"alignCenter"}*##]
 
-![image](SWjungle_img/%5BWEEK08%5DPintOS_Project1_Threads%201a513ac1a7b080e39186ce9a98a7f4f1_attachments/Untitled%205.png)
+![image](./SWjungle_img/WEEK08_attachments/Untitled%205.png)
 
 자, 두 경우를 모두 해결해 보자
 
@@ -726,7 +726,7 @@ thread_set_priority (int new_priority) {
 
 - 결과
 
-![image](SWjungle_img/%5BWEEK08%5DPintOS_Project1_Threads%201a513ac1a7b080e39186ce9a98a7f4f1_attachments/Untitled%206.png)
+![image](./SWjungle_img/WEEK08_attachments/Untitled%206.png)
 
 ---
 

@@ -13,9 +13,9 @@ tags:
 description: PintOS의 Virtual Memory 정리
 ---
 
-# [WEEK10~13]_Pintos_Project3_Virtual Memory
+## [WEEK10~13]_Pintos_Project3_Virtual Memory
 
-# 1. Virtual Memory 관련 모르는 용어 정리
+## 1. Virtual Memory 관련 모르는 용어 정리
 
 - 용어 정리
     - 블록디바이스 (Block Device)
@@ -24,14 +24,14 @@ description: PintOS의 Virtual Memory 정리
         - I / O 속도가 빠름
         - 다른 종류로 캐릭터 디바이스가 있다.
         
-        ![image](SWjungle_img/%5BWEEK10~13%5D_Pintos_Project3_Virtual%20Memory%201a513ac1a7b080d69f17d5fa9070a504_attachments/Untitled.png)
+        ![image](./SWjungle_img/WEEK10-13_attachments/Untitled.png)
         
     - 섹터 (sector)
         - 디스크에서 데이터 한 조각의 단위를 말한다.
     - 스왑 파티션 (SWAP)
         - 메모리(RAM)가 초과하였을때 필요
 
-# 2. 과제 설명서 요약
+## 2. 과제 설명서 요약
 
 - Introduction
     - 무한한 메모리를 빌드하여 제한을 풀기
