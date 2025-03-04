@@ -4,5 +4,22 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# About Me
+
+안녕하세요! 저는 개발자인 척 하는 PM 겸 DX 메니저 입니다.
+
+### 포트폴리오
+[포트폴리오](../portfolio) 별거 없지만 나름 재미있습니다😁
+
+## 블로그 카테고리
+
+- [Books](../categories/Books)
+- [Development](../categories/Development)
+- [Product](../categories/Product)
+- [Productivity](../categories/Productivity)
+- [Tools & SaaS](../categories/tools-saas)
+
+재미있게 둘러보고 가세요!
+
+<!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip } -->
