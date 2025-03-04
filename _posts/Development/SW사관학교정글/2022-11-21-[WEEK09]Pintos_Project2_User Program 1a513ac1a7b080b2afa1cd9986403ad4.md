@@ -34,7 +34,7 @@ description: PintOS의 User Program 정리
     
     ### 3) 사용자 및 커널 모드
     
-    ![image](./SWjungle_img/%5BWEEK09%5DPintos_Project2_User%20Program%201a513ac1a7b080b2afa1cd9986403ad4_attachments/Untitled.png)
+    ![image](SWjungle_img/%5BWEEK09%5DPintos_Project2_User%20Program%201a513ac1a7b080b2afa1cd9986403ad4_attachments/Untitled.png)
     
     ### 4) 프로세스
     
@@ -51,7 +51,7 @@ description: PintOS의 User Program 정리
 - 흐름도 그림
     - kaist-pintos와는 조금 차이가 있다. 아래 코드로 다시 정리
     
-    ![image](./SWjungle_img/%5BWEEK09%5DPintos_Project2_User%20Program%201a513ac1a7b080b2afa1cd9986403ad4_attachments/Untitled%201.png)
+    ![image](SWjungle_img/%5BWEEK09%5DPintos_Project2_User%20Program%201a513ac1a7b080b2afa1cd9986403ad4_attachments/Untitled%201.png)
     
 - 흐름 코드 정리
     

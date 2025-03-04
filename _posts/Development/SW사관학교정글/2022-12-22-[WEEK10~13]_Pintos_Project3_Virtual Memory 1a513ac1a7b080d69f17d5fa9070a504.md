@@ -20,11 +20,11 @@ description: PintOS의 Virtual Memory 정리
 - 용어 정리
     - 블록디바이스 (Block Device)
         - 하드디스크나 CD/DVD 등의 장치
-        - 블록이나 섹터 등의 정해진 단위로 반환
+        - 블록이나 섹터 등의 정해진 단위로 반환 
         - I / O 속도가 빠름
         - 다른 종류로 캐릭터 디바이스가 있다.
         
-        ![image](./SWjungle_img/%5BWEEK10~13%5D_Pintos_Project3_Virtual%20Memory%201a513ac1a7b080d69f17d5fa9070a504_attachments/Untitled.png)
+        ![image](SWjungle_img/%5BWEEK10~13%5D_Pintos_Project3_Virtual%20Memory%201a513ac1a7b080d69f17d5fa9070a504_attachments/Untitled.png)
         
     - 섹터 (sector)
         - 디스크에서 데이터 한 조각의 단위를 말한다.
