@@ -146,8 +146,8 @@ description: PintOS의 Virtual Memory 정리
 
 [Part 2 : Anonymous Page & Lazy Loading](https://h-levi.notion.site/Part-2-Anonymous-Page-Lazy-Loading-1a513ac1a7b0817896daf6c857f079a5?pvs=4)
 
-[Part 3 : Stack Growth](%5BWEEK10~13%5D_Pintos_Project3_Virtual%20Memory%201a513ac1a7b080d69f17d5fa9070a504/Part%203%20Stack%20Growth%201a513ac1a7b081fc96e6f6f59c173bc2.md)
+[Part 3 : Stack Growth](https://h-levi.notion.site/Part-3-Stack-Growth-1a513ac1a7b081fc96e6f6f59c173bc2?pvs=4)
 
-[Part 4 : Memory Mapped Files(File Backed Mapping)](https://h-levi.notion.site/Part-3-Stack-Growth-1a513ac1a7b081fc96e6f6f59c173bc2?pvs=4)
+[Part 4 : Memory Mapped Files(File Backed Mapping)](https://h-levi.notion.site/Part-4-Memory-Mapped-Files-File-Backed-Mapping-1a513ac1a7b081cc966fcd54057b622d?pvs=4)
 
 [Part 5 : Swap In/Out(작성중)](https://h-levi.notion.site/Part-5-Swap-In-Out-1a513ac1a7b081e4b49af6ee3259328a?pvs=4)
