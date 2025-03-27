@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-03-27-Notion Mail(노션메일) 사용 해보기
+title: Notion Mail(노션메일) 사용 해보기
 date: 2025-03-27
 categories:
 - Tools&SaaS
@@ -27,42 +27,63 @@ description: NotionMail 시험판을 사용해 보자
 기본적으로는 Gmail를 연동해서 사용해야 한다.
 연동 시 구글 계정을 통해 Gmail, Calendar를 연동 하라고 한다. 난 둘다 연동 했다.
 추가로 노션 캘린더 처럼 별도의 App으로 만들었다.
+
 ![image](2025-03-27_attachments/A39F6CB7-315A-48E5-A2DF-69AD02DE9DDD.png)
+
 ## 사이드 메뉴 구성
 1. Views
 	- 인박스와 라벨 구분으로 되어 있다. 
 	- 카테고리도 있는데, 메일의 라벨 기능을 이용한 기능이다.
+  
 		![image](2025-03-27_attachments/DDCBAA83-AFCB-4D89-99CD-C6FCB09300BC.png)
+
 2. Mail
 	- 기본적은 메일 보관함과 보낸 메일함이 있다.
+  
 		![image](2025-03-27_attachments/F77AB632-1841-49BF-9773-50F2FF149E67.png)
+
 3. 세팅
 	- 기본적인 세팅 메뉴가 있다.(언어 변경은 없다)
 		
 		![image](2025-03-27_attachments/4707CB09-3DDE-46C8-98C1-959F6CE422CF.png)
+
 4. 탬플릿
 	- 탬플릿은 Views에 대한 탬플릿이 있다. 
 	- 다양한 필터값을 세팅해 두었다
+  
 		![image](2025-03-27_attachments/DE405EAB-F84F-49B1-8C5B-266040C8436B.png)
+
 5. 푸터
 	- 노션, 노션캘린더로 바로 가는 버튼이 있다
-	![image](2025-03-27_attachments/0309D565-739E-4E62-B1AE-D9C3EED1B3BD.png)
+  
+		![image](2025-03-27_attachments/0309D565-739E-4E62-B1AE-D9C3EED1B3BD.png)
+
 ## 상단 메뉴
-라벨, 필터 기타 구분값을 설정 할 수 있는 메뉴가 있다.
+라벨, 필터 기타 구분값을 설정 할 수 있는 메뉴가 있다. 
+
 ![image](2025-03-27_attachments/EC9AE2D4-B437-4743-B531-02AF0F392EBE.png)
+
 재밌는 건 Group by 에 Priority 라는 구분 항목이 있고, 이를 사용 하면 사이드 바에 하기와 같이 나타난다.
+
 ![image](2025-03-27_attachments/ED85BD5C-0B32-45B9-B83C-CED8C30D508B.png)
+
 뷰 화면에서는 다음과 같이 보인다
 이처럼 메일의 상태값을 분리 하여 관리 할 수 있다.
+
 ![image](2025-03-27_attachments/58770C07-BA94-43DF-BEF0-DF7DEF157B95.png)
+
 신기한건, Gmail로 가보면,
 아래와 같이 라벨이 만들어져 있다. 메일의 라벨 시스템을 극한까지 활용한 모습이다.
+
 ![image](2025-03-27_attachments/114154E0-0661-44FD-85CE-DEB3397E368F.png)
+
 ## 메일 작성 화면
 메일 에디터에서 노션 문법을 거의 그대로 사용 할 수 있다.
 (TODO는 아직 구현이 안된 것 같다...)
 캘린더도 연동을 하는데, 이부분은 나중에 디테일하게 활용 해보고 정리하겠다.
+
 ![image](2025-03-27_attachments/6586A735-E3AD-4557-B959-4C782873A6DC.png)
+
 ## 결론
 캘린더에서 메일까지 만든거 보면, 노션의 방향성이 대략적으로 보이는 것 같다. 
 한가지 좀 아쉬웠던건 메일이 구글 메일에만 제약되어 사용이 되는 것 같아서 아쉬웠다. 
