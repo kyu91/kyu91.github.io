@@ -1,7 +1,7 @@
 ---
 layout: null
 title: "Resume"
-permalink: /resume/   
+permalink: /resume/
 sitemap: false  # (옵션) 검색 엔진에서 제외
 ---
 <!DOCTYPE html>
@@ -29,6 +29,6 @@ sitemap: false  # (옵션) 검색 엔진에서 제외
     </style>
 </head>
 <body>
-    <iframe src="[이력서 바로가기](https://h-levi.notion.site/Resume-8d01f0081b18489199e978bdab38f4b7?source=copy_link)"></iframe>
+    <iframe src="https://h-levi.notion.site/Resume-8d01f0081b18489199e978bdab38f4b7"></iframe>
 </body>
 </html>
