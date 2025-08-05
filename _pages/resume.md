@@ -5,6 +5,18 @@ permalink: /resume/
 sitemap: false  # (옵션) 검색 엔진에서 제외
 ---
 
-<iframe src="/assets/Resume_250805.pdf" width="100%" height="600px">
-    이 브라우저는 PDF 뷰어를 지원하지 않습니다. <a href="/assets/Resume_250805.pdf">여기</a>를 클릭하여 PDF 파일을 다운로드하세요.
-</iframe>
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>Redirecting...</title>
+  <meta http-equiv="refresh" content="0; url=https://h-levi.notion.site/Resume-8d01f0081b18489199e978bdab38f4b7?source=copy_link">
+  <link rel="canonical" href="https://h-levi.notion.site/Resume-8d01f0081b18489199e978bdab38f4b7?source=copy_link">
+  <script>
+    window.location.replace("https://h-levi.notion.site/Resume-8d01f0081b18489199e978bdab38f4b7?source=copy_link");
+  </script>
+</head>
+<body>
+  <p>페이지가 자동으로 이동되지 않으면 <a href="https://h-levi.notion.site/Resume-8d01f0081b18489199e978bdab38f4b7?source=copy_link">여기</a>를 클릭하세요.</p>
+</body>
+</html>
