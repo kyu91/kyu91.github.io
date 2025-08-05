@@ -1,20 +1,34 @@
 ---
 layout: null
-permalink: /resume/
-sitemap: false
+title: "Resume"
+permalink: /resume/   
+sitemap: false  # (옵션) 검색 엔진에서 제외
 ---
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-  <meta charset="UTF-8">
-  <title>Redirecting...</title>
-  <script>
-    window.open("https://h-levi.notion.site/Resume-8d01f0081b18489199e978bdab38f4b7?source=copy_link", "_blank");
-    window.location.href = "/"; // Notion 페이지가 열린 후 현재 페이지는 블로그 메인으로 이동
-  </script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title> <style>
+        /* 페이지의 모든 여백과 스크롤을 제거합니다. */
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        /* iframe이 화면 전체를 채우도록 설정합니다. */
+        iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none; /* iframe의 테두리를 제거합니다. */
+        }
+    </style>
 </head>
 <body>
-  <p>페이지가 자동으로 이동되지 않으면 <a href="https://h-levi.notion.site/Resume-8d01f0081b18489199e978bdab38f4b7?source=copy_link" target="_blank" rel="noopener noreferrer">여기</a>를 클릭하세요.</p>
-  <p>PDF로 보고 싶으시면 <a href="/assets/Resume_250805.pdf" target="_blank" rel="noopener noreferrer">여기</a>를 클릭하세요.</p>
+    <iframe src="[이력서 바로가기](https://h-levi.notion.site/Resume-8d01f0081b18489199e978bdab38f4b7?source=copy_link)"></iframe>
 </body>
 </html>
