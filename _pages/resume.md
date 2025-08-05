@@ -29,6 +29,6 @@ sitemap: false  # (옵션) 검색 엔진에서 제외
     </style>
 </head>
 <body>
-    <iframe src="https://h-levi.notion.site/Resume-8d01f0081b18489199e978bdab38f4b7"></iframe>
+    <iframe src="https://h-levi.addpotion.com/"></iframe>
 </body>
 </html>
