@@ -4,15 +4,6 @@ permalink: /resume/
 sitemap: false
 ---
 
-``
----
-layout: page
-title: "Resume"
-permalink: /resume/   
-sitemap: false  # (옵션) 검색 엔진에서 제외
----
-``
-
 <!DOCTYPE html>
 <html lang="ko">
 <head>
