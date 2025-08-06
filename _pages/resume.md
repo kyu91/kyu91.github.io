@@ -21,7 +21,7 @@ sitemap: false  # (옵션) 검색 엔진에서 제외
 다양한 Tool과 방법을 활용해 효율적으로 업무하는 것을 좋아합니다.
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
-<div style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 300px;" markdown="1">
 
 ### About.
 
@@ -30,7 +30,7 @@ sitemap: false  # (옵션) 검색 엔진에서 제외
 - **Email.** [hongsk5689@gmail.com](mailto:hongsk5689@gmail.com)
 
 </div>
-<div style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 300px;" markdown="1">
 
 ### Channel.
 
@@ -45,7 +45,7 @@ sitemap: false  # (옵션) 검색 엔진에서 제외
 # 💼Experience.
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
-<div style="flex: 1; min-width: 200px;">
+<div style="flex: 1; min-width: 200px;" markdown="1">
 
 ## (주)티유게더
 
@@ -58,7 +58,7 @@ sitemap: false  # (옵션) 검색 엔진에서 제외
 *#Notion, #Python, #GCP(BigQuery, Build, Scheduler), #Gemini CLI, #Gemini AI, #VSCode, #Figma, #Airflow(GCC)*
 
 </div>
-<div style="flex: 2; min-width: 300px;">
+<div style="flex: 2; min-width: 300px;" markdown="1">
 
 ## 데이터 관리 설계 및 DX Project 매니징
 
@@ -90,7 +90,7 @@ sitemap: false  # (옵션) 검색 엔진에서 제외
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
-<div style="flex: 1; min-width: 200px;">
+<div style="flex: 1; min-width: 200px;" markdown="1">
 
 ## (주)대웅펫
 
@@ -105,7 +105,7 @@ Product Manager
 *#Figma, #Notion, #Asana, #Chat GPT*
 
 </div>
-<div style="flex: 2; min-width: 300px;">
+<div style="flex: 2; min-width: 300px;" markdown="1">
 
 ## 대웅 그룹사 반려동물 관련 Tech PM
 
@@ -129,7 +129,7 @@ Product Manager
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
-<div style="flex: 1; min-width: 200px;">
+<div style="flex: 1; min-width: 200px;" markdown="1">
 
 ## (주)인포랑
 
@@ -144,7 +144,7 @@ Product Manager
 *#자체 Task 관리툴, #Google Sheets, #Power Point*
 
 </div>
-<div style="flex: 2; min-width: 300px;">
+<div style="flex: 2; min-width: 300px;" markdown="1">
 
 ## 의/공학회 Web, CMS, 기타 시스템 영업/기획
 
@@ -171,7 +171,7 @@ Product Manager
 # 🎓Education.
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
-<div style="flex: 1; min-width: 200px;">
+<div style="flex: 1; min-width: 200px;" markdown="1">
 
 ## 공주대학교
 
@@ -180,7 +180,7 @@ Product Manager
 2010.03. ~ 2017.07
 
 </div>
-<div style="flex: 2; min-width: 300px;">
+<div style="flex: 2; min-width: 300px;" markdown="1">
 
 ## 동아리 활동 열심히 하는 학회장
 
@@ -196,7 +196,7 @@ Product Manager
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
-<div style="flex: 1; min-width: 200px;">
+<div style="flex: 1; min-width: 200px;" markdown="1">
 
 ## 양주백석고등학교
 
@@ -205,7 +205,7 @@ Product Manager
 2007.03. ~ 2010.02.
 
 </div>
-<div style="flex: 2; min-width: 300px;">
+<div style="flex: 2; min-width: 300px;" markdown="1">
 
 ## 공부보단 독서, 독서 토론, 농구, 악기
 
@@ -219,7 +219,7 @@ Product Manager
 # ⚒️Skill.
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
-<div style="flex: 1; min-width: 200px;">
+<div style="flex: 1; min-width: 200px;" markdown="1">
 
 #### Tools
 
@@ -241,7 +241,7 @@ Product Manager
   - GA 세팅 및 데이터 분석/관리 경험
 
 </div>
-<div style="flex: 1; min-width: 200px;">
+<div style="flex: 1; min-width: 200px;" markdown="1">
 
 #### Skills
 
