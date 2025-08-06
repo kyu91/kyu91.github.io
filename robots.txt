@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /resume
+
+Sitemap: https://www.h-levi.me/sitemap.xml
