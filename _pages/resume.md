@@ -168,6 +168,84 @@ Product Manager
 </div>
 </div>
 
+# 🧑‍💻Professional Training.
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+<div style="flex: 1; min-width: 200px;" markdown="1">
+
+## SW사관학교 정글
+
+카이스트에서 개발공부
+
+2022.09.15 ~ 2023.02.15
+
+5개월
+
+---
+
+*#C, #Python, #React.js, #AWS*
+
+</div>
+<div style="flex: 2; min-width: 300px;" markdown="1">
+
+## PintOS프로젝트 및 웹 서비스 개발
+
+### Description
+
+카이스트에서 진행한 부트캠프로 **알고리즘, CS(computer system), Pint-OS 프로젝트, Web 서비스 직접 개발** 하는 커리큘럼으로 5개월 간 **몰입**하여 공부하는 기회였습니다.
+
+### 한 일
+
+- 0주 : 3일만에 웹사이트 구현(로그인 및 게시판 CRUD)
+- 1~4주 : 알고리즘 공부로 기본적인 **자료구조 및 전산학의 기본적인 지식** 습득
+- 5주 : RedBlackTree를 C언어로 구현하며 자료구에 더 깊히 이해
+- 6주 : Malloc함수를 C언어로 구현하며 동적 메모리 할당과 컴퓨터의 CPU, RAM 등에 대한 전반 적인 이해
+- 7주 : **C언어로 웹서버와 Proxy를 구현하며 웹의 흐름과 서버를 이해**
+- 8~13주 : 카이스트 전산학부 과정 중 **PintOS과정**을 진행 하며 OS를 구현 및 공부하며 이해
+- 14~18주 : **팀프로젝트**로 사용자가 사용할 수 있는 서비스를 구축하고 론칭
+    - **팀 프로젝트 리더**
+    - [프로젝트 Github link](https://github.com/kyu91/kidsquiz-frontend)
+
+</div>
+</div>
+
+---
+
+<div style="display: flex; flex-wrap: wrap; gap: 2rem;">
+<div style="flex: 1; min-width: 200px;" markdown="1">
+
+## 국비 웹디자이너 과정
+
+이젠컴퓨터 학원
+
+2018.09.01 ~ 2029.03.01
+
+6개월
+
+---
+
+*#HTML, #CSS, #JavaScript*
+
+</div>
+<div style="flex: 2; min-width: 300px;" markdown="1">
+
+## 포토샵/HTML/CSS/JS 교육
+
+### Description
+
+비전공자에서 IT 직무로 전환 하기 위해 진행한 국비 교육이였으며, 이를 계기로 커리어 전환을 할 수 있었습니다.
+
+### 한 일
+
+- 포토샵, 일러스트로 웹 디자인 및 기획
+- HTML/CSS/JS로 반응형 웹사이트 제작
+- 수료 후 인포랑 취업
+
+</div>
+</div>
+
+---
+
 # 🎓Education.
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
