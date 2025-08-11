@@ -12,7 +12,6 @@ sitemap: false  # (옵션) 검색 엔진에서 제외
   ![증명사진](./resume_img/resume_img.png)
 </details> -->
 
-
 # 👨‍💼Introduce.
 
 **PM**으로 시작해서 **개발, 데이터 관리 설계** 까지의 경험으로,
@@ -40,7 +39,8 @@ sitemap: false  # (옵션) 검색 엔진에서 제외
 </div>
 </div>
 
-<br/>
+---
+
 
 # 💼Experience.
 
@@ -87,7 +87,6 @@ sitemap: false  # (옵션) 검색 엔진에서 제외
 </div>
 </div>
 
----
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
 <div style="flex: 1; min-width: 200px;" markdown="1">
@@ -126,7 +125,6 @@ Product Manager
 </div>
 </div>
 
----
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
 <div style="flex: 1; min-width: 200px;" markdown="1">
@@ -167,6 +165,8 @@ Product Manager
 
 </div>
 </div>
+
+---
 
 # 🧑‍💻Professional Training.
 
@@ -209,7 +209,6 @@ Product Manager
 </div>
 </div>
 
----
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
 <div style="flex: 1; min-width: 200px;" markdown="1">
@@ -271,7 +270,6 @@ Product Manager
 </div>
 </div>
 
----
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem;">
 <div style="flex: 1; min-width: 200px;" markdown="1">
@@ -293,6 +291,8 @@ Product Manager
 
 </div>
 </div>
+
+---
 
 # ⚒️Skill.
 
