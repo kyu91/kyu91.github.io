@@ -4,8 +4,8 @@ layout: null
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title }}</title>
-    <description>{{ site.description }}</description>
+    <title>{{ site.title | xml_escape }}</title>
+    <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}</link>
     <atom:link href="{{ site.url }}/rss.xml" rel="self" type="application/rss+xml"/>
     <language>{{ site.lang }}</language>
@@ -17,7 +17,7 @@ layout: null
       <link>{{ site.url }}{{ post.url }}</link>
       <guid>{{ site.url }}{{ post.url }}</guid>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-      <category>{{ post.categories | join: ', ' }}</category>
+      <category>{{ post.categories | join: ', ' | xml_escape }}</category>
     </item>
     {% endfor %}
   </channel>
