@@ -19,7 +19,7 @@ title: h-levi.me # the main title
 tagline: 안녕하세요 저는 😎  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Product Manager, DX Manager, Development
+  한국 개발자와 PM을 위한 기술 블로그 - 개발, 제품 관리, 생산성 도구, 도서 리뷰 등 다양한 내용을 공유합니다
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
