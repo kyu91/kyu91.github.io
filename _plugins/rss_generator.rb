@@ -34,9 +34,17 @@ module Jekyll
       RSS
 
       @site.posts.docs.each do |post|
-        # HTML 태그 제거 및 내용 정리
-        excerpt = post.excerpt || post.content[0..200]
-        excerpt = excerpt.gsub(/<[^>]*>/, '').strip
+        # Jekyll 4.4.1 호환 excerpt 처리
+        excerpt = if post.data['excerpt']
+          post.data['excerpt']
+        elsif post.content
+          # HTML 태그 제거 및 내용 정리
+          content = post.content.to_s
+          content = content.gsub(/<[^>]*>/, '').strip
+          content[0..200] + (content.length > 200 ? '...' : '')
+        else
+          '내용 없음'
+        end
         
         rss_content += <<~ITEM
             <item>
