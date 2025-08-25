@@ -34,13 +34,18 @@ module Jekyll
       RSS
 
       @site.posts.docs.each do |post|
+        # HTML 태그 제거 및 내용 정리
+        excerpt = post.excerpt || post.content[0..200]
+        excerpt = excerpt.gsub(/<[^>]*>/, '').strip
+        
         rss_content += <<~ITEM
             <item>
               <title>#{post.data['title']}</title>
-              <description>#{post.excerpt || post.content[0..200]}...</description>
+              <description>#{excerpt}</description>
               <link>#{@site.config['url']}#{post.url}</link>
               <guid>#{@site.config['url']}#{post.url}</guid>
               <pubDate>#{post.date.rfc822}</pubDate>
+              <category>#{post.data['categories']&.join(', ')}</category>
             </item>
         ITEM
       end
