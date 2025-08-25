@@ -233,3 +233,8 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# RSS 피드 설정
+feed:
+  path: rss.xml
+  limit: 20
