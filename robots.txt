@@ -1,15 +1,10 @@
 User-agent: *
-
 Allow: /
-
 Disallow: /resume
 Disallow: /admin/
 Disallow: /private/
-
 Sitemap: https://h-levi.me/sitemap.xml
-
 User-agent: Yeti
 Allow: /
-
 User-agent: Baiduspider
 Allow: /
