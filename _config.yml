@@ -80,6 +80,8 @@ pageviews:
 # 페이지 포함
 include:
   - _pages
+  - naver924d94c0d59a1ac3fd15c24bafa1519d.html
+  # - robots.txt  # 이미 루트에 있으므로 불필요
 
 # 네이버 웹마스터 도구 인증 파일 포함
 include:
@@ -234,7 +236,7 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-# RSS 피드 설정
-feed:
-  path: rss.xml
-  limit: 20
+# RSS 피드 설정 (제거 필요)
+# feed:
+#   path: rss.xml
+#   limit: 20
