@@ -80,6 +80,12 @@ pageviews:
 # 페이지 포함
 include:
   - _pages
+
+# 네이버 웹마스터 도구 인증 파일 포함
+include:
+  - _pages
+  - naver924d94c0d59a1ac3fd15c24bafa1519d.html
+
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,
