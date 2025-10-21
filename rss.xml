@@ -2,23 +2,14 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- RSS 피드 비활성화 - 웹 노출 방지 -->
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ site.url }}/rss.xml" rel="self" type="application/rss+xml"/>
-    <language>{{ site.lang }}</language>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    {% for post in site.posts limit:20 %}
-    <item>
-      <title>{{ post.title | xml_escape }}</title>
-      <description>{{ post.excerpt | strip_html | truncate:200 | xml_escape }}</description>
-      <link>{{ site.url }}{{ post.url }}</link>
-      <guid>{{ site.url }}{{ post.url }}</guid>
-      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-      <category>{{ post.categories | join: ', ' | xml_escape }}</category>
-    </item>
-    {% endfor %}
+    <title>Private Content</title>
+    <description>This RSS feed is disabled for privacy</description>
+    <link>#</link>
+    <language>en</language>
+    <lastBuildDate>1970-01-01T00:00:00Z</lastBuildDate>
+    <!-- 모든 콘텐츠 제거 -->
   </channel>
 </rss>

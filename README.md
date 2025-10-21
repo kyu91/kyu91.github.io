@@ -12,7 +12,7 @@
 
 ## 🔗 링크
 
-- 🌐 **블로그**: [h-levi.me](https://h-levi.me)
+- 🌐 **블로그**: [kyu91.github.io](https://kyu91.github.io)
 - 💼 **LinkedIn**: [seok-kyu-hong](https://www.linkedin.com/in/seok-kyu-hong/)
 - ‍ **GitHub**: [kyu91](https://github.com/kyu91)
 
@@ -21,4 +21,5 @@
 - **테마**: [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 - **빌드**: Jekyll
 - **호스팅**: GitHub Pages
+
 

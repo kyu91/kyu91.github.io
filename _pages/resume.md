@@ -33,7 +33,7 @@ sitemap: false  # (옵션) 검색 엔진에서 제외
 
 ### Channel.
 
-- **Blog.** [https://www.h-levi.me/](https://www.h-levi.me/)
+- **Blog.** [https://kyu91.github.io/](https://kyu91.github.io/)
 - **Portfolio.** [https://buly.kr/5UHR2u3](https://buly.kr/5UHR2u3)
 
 </div>

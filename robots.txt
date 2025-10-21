@@ -1,10 +1,40 @@
 User-agent: *
-Allow: /
-Disallow: /resume
-Disallow: /admin/
-Disallow: /private/
-Sitemap: https://h-levi.me/sitemap.xml
-User-agent: Yeti
-Allow: /
+Disallow: /
+
+# 모든 검색 엔진 크롤링 차단
+# sitemap 제거 - 웹 노출 방지
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
+User-agent: Slurp
+Disallow: /
+
+User-agent: DuckDuckBot
+Disallow: /
+
 User-agent: Baiduspider
-Allow: /
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: facebookexternalhit
+Disallow: /
+
+User-agent: Twitterbot
+Disallow: /
+
+User-agent: LinkedInBot
+Disallow: /
+
+User-agent: WhatsApp
+Disallow: /
+
+User-agent: Applebot
+Disallow: /
+
+User-agent: Yeti
+Disallow: /
