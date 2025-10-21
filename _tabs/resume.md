@@ -1,7 +1,4 @@
 ---
-layout: page
-title: "Resume"
-permalink: /resume/
 icon: fas fa-info-circle
 order: 0
 ---
