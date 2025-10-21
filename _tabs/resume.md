@@ -2,7 +2,8 @@
 layout: page
 title: "Resume"
 permalink: /resume/
-sitemap: false  # (옵션) 검색 엔진에서 제외
+icon: fas fa-info-circle
+order: 0
 ---
 # ‘진짜’ 문제를 찾고 쉽게 해결하는 리더
 <!-- 
