@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fa fa-envelope
-order: 5
+order: 6
 ---
 
 ### 하기 폼을 통해 무엇이든 문의해주세요!

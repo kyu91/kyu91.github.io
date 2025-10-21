@@ -1,8 +1,6 @@
 ---
-layout: page
-title: "Portfolio"
-permalink: /portfolio/
-sitemap: false  # (옵션) 검색 엔진에서 제외
+icon: fa fa-line-chart
+order: 2
 ---
 
 ### 포트폴리오 보는 방법!

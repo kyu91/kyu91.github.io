@@ -1,5 +1,5 @@
 ---
-icon: fas fa-info-circle
+icon: fa fa-address-book
 order: 0
 ---
 # ‘진짜’ 문제를 찾고 쉽게 해결하는 리더
